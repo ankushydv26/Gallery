@@ -1,1 +1,3 @@
-<h1 style="color: red;"> This Photo gallery  which design looks goods to because i am not good to design </h1>
+
+<h2><em>Curiosity </em></h2>
+<h4 style="color: red;"> This is Photo gallery web app   </h4>
